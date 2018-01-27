@@ -12,7 +12,7 @@ They'll be places you are expected to substitute a line for the answer. These ar
 *Replace me with answer*
 We then replace the answer with "**" before and after "**". How many?  Two asterisks before and two after. Why - take a look at markdown.
 
-**whoami**
+**Ying Sun**
 
 ## 1. Logging in
 Please login to trgn510.pmed.io and verify that you are in trgn510.pmed.io using hostname.
